@@ -1,0 +1,1 @@
+{"version":3,"file":"View.js","sourceRoot":"","sources":["../../../src/native-base-theme/components/View.js"],"names":[],"mappings":"AAGA,OAAO,QAAQ,MAAM,yBAAyB,CAAC;AAE/C,eAAe,CAAC,SAAS,GAAG,QAAQ;IAClC,MAAM,SAAS,GAAG;QACd,SAAS,EAAE;YACT,OAAO,EAAE,SAAS,CAAC,cAAc;SAClC;KACJ,CAAC;IAGF,MAAM,CAAC,SAAS,CAAC;AACnB,CAAC,CAAC"}

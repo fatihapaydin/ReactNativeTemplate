@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\calismalar\\BkuNative\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\calismalar\\BkuNative\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.46.4\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmetfatih.apaydin\\Desktop\\Calismalar\\BkuNative\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\ahmetfatih.apaydin\\Desktop\\Calismalar\\BkuNative\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.46.4\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\fatih\\Desktop\\RNCalismalar\\BkuNative\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\fatih\\Desktop\\RNCalismalar\\BkuNative\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.46.4\\res\\xml\\preferences.xml"
+    }
+]

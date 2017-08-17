@@ -1,0 +1,43 @@
+{
+	"name": "nativebasesablon",
+	"version": "2.3.1",
+	"private": true,
+	"scripts": {
+		"start": "react-native start",
+		"android": "react-native run-android",
+		"ios": "react-native run-ios",
+		"test": "node node_modules/jest/bin/jest.js --watch",
+		"postinstall": "react-native-port-patcher --new-port 40257",
+		"tsc": "tsc",
+		"clean": "rimraf artifacts",
+		"build": "npm run clean && npm run tsc --",
+		"watch": "npm run build -- -w"
+	},
+	"jest": {
+		"preset": "react-native",
+		"transformIgnorePatterns": [
+			"node_modules/(?!react-native|native-base-shoutem-theme)"
+		]
+	},
+	"dependencies": {
+		"color": "~1.0.3",
+		"lodash": "^4.13.1",
+		"native-base": "2.3.1",
+		"react": "16.0.0-alpha.13",
+		"react-native": "0.46.4",
+		"react-native-autocomplete-input": "^3.3.1",
+		"react-native-port-patcher": "^1.0.2",
+		"react-navigation": "1.0.0-beta.11"
+	},
+	"devDependencies": {
+		"@types/jest": "^18.1.1",
+		"@types/react": "^16.0.2",
+		"@types/react-native": "^0.47.4",
+		"@types/react-navigation": "^1.0.19",
+		"concurrently": "^3.5.0",
+		"jest": "20.0.4",
+		"react-test-renderer": "16.0.0-alpha.13",
+		"rimraf": "^2.6.1",
+		"typescript": "^2.4.2"
+	}
+}

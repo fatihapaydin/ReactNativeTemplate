@@ -1,0 +1,1 @@
+{"version":3,"file":"H3.js","sourceRoot":"","sources":["../../../src/native-base-theme/components/H3.js"],"names":[],"mappings":"AAGA,OAAO,QAAQ,MAAM,yBAAyB,CAAC;AAE/C,eAAe,CAAC,SAAS,GAAG,QAAQ;IAClC,MAAM,OAAO,GAAG;QACZ,KAAK,EAAE,SAAS,CAAC,SAAS;QAC1B,QAAQ,EAAE,SAAS,CAAC,UAAU;QAC9B,UAAU,EAAE,SAAS,CAAC,YAAY;KACrC,CAAC;IAGF,MAAM,CAAC,OAAO,CAAC;AACjB,CAAC,CAAC"}
