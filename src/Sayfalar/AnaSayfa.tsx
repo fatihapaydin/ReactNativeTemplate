@@ -23,7 +23,7 @@ export default class AnaSayfa extends React.Component<IBaslangicProps, {}> {
                 </Header>
 
                 <Content padder>
-                    <Text>Ana Sayfa İçeriği</Text>
+                    <Text>Ana Sayfa</Text>
                     <Button onPress={() => this.props.navigation.navigate("IkinciSayfa")}>
                         <Text>İkinci Sayfaya</Text>
                         <Right>
